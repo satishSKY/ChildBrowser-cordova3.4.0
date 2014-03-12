@@ -1,0 +1,27 @@
+# view AndroidManifest.xml #generated:23
+-keep class com.phonegap.plugins.childBrowser.ChildBrowser { <init>(...); }
+
+# view AndroidManifest.xml #generated:13
+-keep class com.plugin.gcm.CordovaGCMBroadcastReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:20
+-keep class com.plugin.gcm.GCMIntentService { <init>(...); }
+
+# view AndroidManifest.xml #generated:12
+-keep class com.plugin.gcm.PushHandlerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:6
+-keep class com.sky.hello.CordovaDemo { <init>(...); }
+
+# view AndroidManifest.xml #generated:21
+-keep class com.weemo.phonegap.CallActivity { <init>(...); }
+
+# view res/layout/weemo_fragment_call.xml #generated:15
+-keep class com.weemo.sdk.view.WeemoVideoInFrame { <init>(...); }
+
+# view res/layout/weemo_fragment_call.xml #generated:30
+-keep class com.weemo.sdk.view.WeemoVideoOutPreviewFrame { <init>(...); }
+
+# view AndroidManifest.xml #generated:22
+-keep class de.appplant.cordova.plugin.badge.LaunchActivity { <init>(...); }
+
